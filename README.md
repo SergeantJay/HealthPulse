@@ -2034,15 +2034,6 @@ MODIFY `vit_id` int(20) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
 
 68
 
-APPENDIX-II: SCREEN SHOTS
-
-69
-
-70
-
-71
-
-72
 
 REFERENCES
 ● Mozilla Developer Network (MDN) Web Docs
